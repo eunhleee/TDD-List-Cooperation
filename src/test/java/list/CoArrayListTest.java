@@ -141,5 +141,4 @@ public class CoArrayListTest {
         testlist.subList(1,3);
         assertThat(testlist.size()).isEqualTo(2);
     }
-
 }
